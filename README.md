@@ -1,7 +1,7 @@
 Hi 👋 My name is Rubens Costa!
 ==========================
 
-Full Stack Software Developer
+Software developer
 -----------------------------
 
 I'm 28 years old, I love to code and figure out how to solve problems. My main focus is front and back-end development, developing applications that impact the lives of thousands of people.
@@ -10,8 +10,9 @@ I'm 28 years old, I love to code and figure out how to solve problems. My main f
 - 🚀 I recently created and published the "Ruverter" mobile app, which is available for download on Play Story.
 - 🔭 I'm currently developing a second personal text-to-speech app with the aim of using some updated APIs to convert text to natural language and adding some extra features.
 - 🌱 I am currently learning cloud resource integration with Firebase API and Clean Architecture to make apps more flexible and scalable.
+- 🤖 I confess that I'm a big Machine Learning enthusiast even though I haven't delved into development yet.
+- 😄 Fun fact: My favorite movie genres are sci-fi, horror, and medieval. And my favorite series at the moment is Halo, I'm waiting for season 2.
 - 📫 You can contact me at rubecostt@gmail.com.
-- 😄 Curiosity: My favorite movie genres are science fiction and medieval, and even if it doesn't look like it, I go to the gym and do weight training.
 
 ### Skills
   
