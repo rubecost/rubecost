@@ -9,9 +9,6 @@ Desenvolvedor .NET
     <img src="https://img.shields.io/badge/Email-Contato-FFC400?style=for-the-badge&logo=gmail&logoColor=000000" />
   </a>
 
-  <a href="SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -118,25 +115,9 @@ Trabalho principalmente com:
   />
 </picture>
 
----
-
-## 🎯 Atualmente
-
-- Desenvolvendo o ecossistema **ConectaCNH**
-- Aprimorando aplicações com **.NET MAUI**
-- Construindo APIs com **ASP.NET Core**
-- Estudando arquitetura, escalabilidade e integração de serviços
-- Criando ferramentas gratuitas para desenvolvedores
-
----
-
 ## 📫 Contato
 
 <div align="center">
-
-Aberto a conversas sobre desenvolvimento .NET, projetos mobile, APIs e novas oportunidades.
-
-<br/><br/>
 
 <a href="mailto:SEU_EMAIL">
   <img src="https://img.shields.io/badge/Entrar_em_contato-FFC400?style=for-the-badge&logo=gmail&logoColor=000000" />
