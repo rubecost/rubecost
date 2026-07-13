@@ -1,13 +1,8 @@
 <h1 align="center">Olá, eu sou Rubens Costa 👋</h1>
 
 <h3 align="center">
-Desenvolvedor .NET | Mobile com .NET MAUI | APIs ASP.NET Core
+Desenvolvedor .NET
 </h3>
-
-<p align="center">
-Construo aplicações completas, da interface mobile ao backend,
-com foco em arquitetura limpa, experiência do usuário e soluções reais.
-</p>
 
 <p align="center">
   <a href="mailto:SEU_EMAIL">
@@ -23,19 +18,15 @@ com foco em arquitetura limpa, experiência do usuário e soluções reais.
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor de software com foco no ecossistema **.NET**, atuando no desenvolvimento de aplicações mobile, APIs REST e integrações com bancos de dados.
+Sou desenvolvedor de software com foco no ecossistema **.NET**, atuando no desenvolvimento de aplicações Web e mobile, APIs REST e integrações com bancos de dados.
 
-Atualmente trabalho principalmente com:
+Trabalho principalmente com:
 
-- Desenvolvimento mobile multiplataforma com **.NET MAUI**
 - APIs REST com **ASP.NET Core**
-- Arquitetura limpa e separação de responsabilidades
+- Desenvolvimento de softwares multiplataforma com **.NET**
 - Entity Framework Core e MySQL
 - Autenticação, JWT e fluxos completos de usuário
-- Interfaces modernas para Android e iOS
-- Git, GitHub e organização de projetos
-
-Também desenvolvo o **ConectaCNH**, uma plataforma mobile que conecta alunos a instrutores de direção.
+- Interfaces modernas para Web, Android e iOS
 
 ---
 
@@ -53,61 +44,13 @@ Também desenvolvo o **ConectaCNH**, uma plataforma mobile que conecta alunos a 
 
 | Área | Tecnologias |
 |---|---|
+| Web | ASP.NET, Blazor
 | Mobile | .NET MAUI, XAML, Android, iOS |
 | Backend | ASP.NET Core, Web API, Entity Framework Core |
-| Banco de dados | MySQL, SQL Server |
-| Arquitetura | Clean Architecture, Repository Pattern, MVVM |
-| Ferramentas | Git, GitHub, Visual Studio, VS Code, Postman |
+| Banco de dados | MySQL, SQLite, NoSQL|
+| Arquitetura | Repository Pattern, MVVM, MVC |
 
 </div>
-
----
-
-## 📌 Projetos em destaque
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚘 ConectaCNH
-
-Marketplace mobile para conectar alunos a instrutores de direção.
-
-**Principais recursos:**
-
-- Aplicativo Android e iOS
-- Cadastro e autenticação
-- Busca de instrutores
-- Agendamento de aulas
-- Pagamentos
-- Simulados
-- Avaliações e mensagens
-
-**Tecnologias:**  
-`.NET MAUI` `ASP.NET Core` `MySQL` `Entity Framework Core`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧩 Autocomplete Filter
-
-Extensão para aumentar a produtividade no preenchimento e filtragem de formulários web.
-
-**Principais recursos:**
-
-- Preenchimento automatizado
-- Dados personalizados
-- Geração de dados para testes
-- Interface simples
-- Instalação rápida
-
-**Tecnologias:**  
-`JavaScript` `HTML` `CSS` `Chrome Extension`
-
-</td>
-</tr>
-</table>
 
 ---
 
