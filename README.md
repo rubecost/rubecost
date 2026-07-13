@@ -59,12 +59,4 @@ Trabalho principalmente com:
   />
 </picture>
 
-## 📫 Contato
-
-<div align="center">
-
-<a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Entrar_em_contato-FFC400?style=for-the-badge&logo=gmail&logoColor=000000" />
-</a>
-
 </div>
