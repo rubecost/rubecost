@@ -41,7 +41,7 @@ Trabalho principalmente com:
 
 ## 📈 Atividade recente
 
-<picture>
+<!--<picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=rubecost&bg_color=0d1117&color=e6edf3&title_color=FFC400&line=FFC400&point=ffffff&area_color=FFC400&area=true&hide_border=true&radius=8&custom_title=Contribui%C3%A7%C3%B5es%20de%20Rubens%20Costa"
@@ -57,6 +57,6 @@ Trabalho principalmente com:
     alt="Gráfico de contribuições de Rubens Costa"
     src="https://github-readme-activity-graph.vercel.app/graph?username=rubecost&bg_color=ffffff&color=24292f&title_color=111827&line=FFC400&point=111827&area_color=FFC400&area=true&border_color=d0d7de&radius=8&custom_title=Contribui%C3%A7%C3%B5es%20de%20Rubens%20Costa"
   />
-</picture>
+</picture>-->
 
 </div>
